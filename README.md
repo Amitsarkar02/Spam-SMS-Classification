@@ -11,3 +11,6 @@
 - Evaluation
 - Contributing
 - License
+
+## Introduction
+Spam SMS messages are a common nuisance that often contain unsolicited advertisements, fraudulent schemes, or malicious content. This project aims to tackle this issue by developing a machine learning model that can accurately classify SMS messages as spam or ham. By leveraging NLP techniques, we can analyze the text content of messages and make predictions based on patterns and characteristics commonly found in spam messages.
