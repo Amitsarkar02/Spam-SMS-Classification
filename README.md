@@ -4,10 +4,10 @@
 
 **Table of Contents**
 - Introduction
-Dataset
-Installation
-Usage
-Model Training
-Evaluation
-Contributing
-License
+- Dataset
+- Installation
+- Usage
+- Model Training
+- Evaluation
+- Contributing
+- License
